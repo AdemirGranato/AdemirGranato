@@ -1,4 +1,5 @@
-                                                                                    Ademir Granato
+__________________________________________________________________________________________________________________________________________
+																									#Ademir Granato
 Analista de dados júnior
 Python - SQL - Power BI - Data Visualization - ETL - Estatistica
 Sobre mim

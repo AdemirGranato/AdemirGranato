@@ -14,16 +14,27 @@ Contudo, meu interesse crescente em tecnologia me levou a mergulhar em estudos i
 
 </p>
   <p>
-  <h3> Hard Skills</h3>
-    Python, Power BI, SQL, SQL Server e MySQL, modelagem de dados, SnowFlake e Excel
+  <h3> Habilidades técnicas</h3>
+    Python, Power BI, SQL, SQL Server e MySQL, modelagem de dados, SnowFlake, Excel e JavaScript
   </p>
 </div>
 
+<h3> Competências comportamentais</h3>
+    Relacionamento Interpessoal, Boa escrita e comunicação, Trabalho em Equipe, Proatividade e Metodologia Ágil
+  </p>
+</div>
+
+<h3> Idiomas</h3>
+    Português - Nativo
+    Inglês - Intermediário
+  </p>
+</div> 
+
 <h1 align="left"> Meus projetos</h1>
 
-<div align="justify"></a> Curso Power BI – Plataforma Alura </h2></div>
+<div align="justify"></a> Curso de Power BI – Plataforma Alura </h2></div>
 
-+ [Projeto 12 - Churn de clientes](https://github.com/natalialnb/Churn_Clientes/tree/main): 
+Projeto 1 - PetShop 
 
 
 

@@ -26,7 +26,8 @@ Contudo, meu interesse crescente em tecnologia me levou a mergulhar em estudos i
 
 <h3> Idiomas</h3>
     Português - Nativo
-    Inglês - Intermediário
+    
+  Inglês - Intermediário (Em Curso)
   </p>
 </div> 
 

@@ -33,7 +33,7 @@ Contudo, meu interesse crescente em tecnologia me levou a mergulhar em estudos i
 
 <h1 align="left"> Meus projetos</h1>
 
-<div align="justify"></a> Curso de Power BI – Plataforma Alura </h2></div>
+<div align="justify"></a> Power BI </h2></div>
 
 + [Projeto 1 - Gatito PetShop](https://github.com/AdemirGranato/Gatito_PetShop.git)
 + [Projeto 2 - E-Commerce Buscante](https://github.com/AdemirGranato/E_Commerce_Buscante.git) 
